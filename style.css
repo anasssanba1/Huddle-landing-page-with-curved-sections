@@ -380,6 +380,12 @@ input {
 	.footer-logo {
 		width: 100%;
 	}
+	.subscribe-button{
+		margin-left: auto;
+	}
+	.wrapper2{
+		max-width: min-content;
+	}
 }
 @media (max-width: 1040px) {
 	footer .max-container {
